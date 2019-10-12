@@ -1,0 +1,23 @@
+Country,Region,Abreviation,Region Type,Population
+Australia,New South Wales,NSW,State,8071071
+Australia,Queensland,QLD,State,5076512
+Australia,South Australia,SA,State,1748630
+Australia,Tasmania,Tas,State,533308
+Australia,Victoria,Vic,State,6556170
+Australia,Western Australia,WA,State,2615753
+Australia,Australian Capital Territory,ACT,Territory,425706
+Australia,Jervis Bay Territory,JBT,Territory,405
+Australia,Northern Territory,NT,Territory,245562
+Canada,Ontario,ON,Province,14566547
+Canada,Quebec,QC,Province,8484965
+Canada,Nova Scotia,NS,Province,971395
+Canada,New Brunswick,NB,Province,776827
+Canada,Manitoba,MB,Province,1369465
+Canada,British Columbia,BC,Province,5071336
+Canada,Prince Edward Island,PE,Province,156947
+Canada,Saskatchewan,SK,Province,1174462
+Canada,Alberta,AB,Province,4371316
+Canada,Newfoundland and Labrador,NL,Province,521542
+Canada,Northwest Territories,NT,Territory,44826
+Canada,Yukon,YT,Territory,40854
+Canada,Nunavut,NU,Territory,38780
